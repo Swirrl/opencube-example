@@ -86,7 +86,7 @@
                    [net-additional-dwellings-00-01-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2000-2001, " name))]
-                    [net-additional-dwellings-def (rdfstr period-00-01)]
+                    [net-additional-dwellings-def (parseValue period-00-01)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2000-2001")]]
@@ -94,7 +94,7 @@
                    [net-additional-dwellings-01-02-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2001-2002, " name))]
-                    [net-additional-dwellings-def (rdfstr period-01-02)]
+                    [net-additional-dwellings-def (parseValue period-01-02)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2001-2002")]]
@@ -102,7 +102,7 @@
                    [net-additional-dwellings-02-03-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2002-2003, " name))]
-                    [net-additional-dwellings-def (rdfstr period-02-03)]
+                    [net-additional-dwellings-def (parseValue period-02-03)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2002-2003")]]
@@ -110,7 +110,7 @@
                    [net-additional-dwellings-03-04-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2003-2004, " name))]
-                    [net-additional-dwellings-def (rdfstr period-03-04)]
+                    [net-additional-dwellings-def (parseValue period-03-04)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2003-2004")]]
@@ -118,7 +118,7 @@
                    [net-additional-dwellings-04-05-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2004-2005, " name))]
-                    [net-additional-dwellings-def (rdfstr period-04-05)]
+                    [net-additional-dwellings-def (parseValue period-04-05)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2004-2005")]]
@@ -126,7 +126,7 @@
                    [net-additional-dwellings-05-06-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2005-2006, " name))]
-                    [net-additional-dwellings-def (rdfstr period-05-06)]
+                    [net-additional-dwellings-def (parseValue period-05-06)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2005-2006")]]
@@ -134,7 +134,7 @@
                    [net-additional-dwellings-06-07-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2006-2007, " name))]
-                    [net-additional-dwellings-def (rdfstr period-06-07)]
+                    [net-additional-dwellings-def (parseValue period-06-07)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2006-2007")]]
@@ -142,7 +142,7 @@
                    [net-additional-dwellings-07-08-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2007-2008, " name))]
-                    [net-additional-dwellings-def (rdfstr period-07-08)]
+                    [net-additional-dwellings-def (parseValue period-07-08)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2007-2008")]]
@@ -150,7 +150,7 @@
                    [net-additional-dwellings-08-09-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2008-2009, " name))]
-                    [net-additional-dwellings-def (rdfstr period-08-09)]
+                    [net-additional-dwellings-def (parseValue period-08-09)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2008-2009")]]
@@ -158,7 +158,7 @@
                    [net-additional-dwellings-09-10-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2009-2010, " name))]
-                    [net-additional-dwellings-def (rdfstr period-09-10)]
+                    [net-additional-dwellings-def (parseValue period-09-10)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2009-2010")]]
@@ -166,7 +166,7 @@
                    [net-additional-dwellings-10-11-uri
                     [rdf:a qb:Observation]
                     [rdfs:label  (rdfstr (str "Net additional dwellings, 2010-2011, " name))]
-                    [net-additional-dwellings-def (rdfstr period-10-11)]
+                    [net-additional-dwellings-def (parseValue period-10-11)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
                     [sdmx-dimension:refPeriod (gov-year "2010-2011")]])))
