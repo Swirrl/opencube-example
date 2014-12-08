@@ -1,10 +1,10 @@
 # grafter-demo
 
-A Clojure library designed to ... well, that part is up to you.
+Demo of Grafter with net-additional-dwellings.csv
 
 ## Usage
 
-FIXME
+    lein run ./net-additional-dwellings.csv ./net-additional-dwellings.nt
 
 ## License
 

@@ -176,12 +176,9 @@
 ;;
 
 (defn net-additional-dwellings-filter
-  "filter for Glasgow dataset 'net-additional-dwellings.csv'"
+  "filter for 'net-additional-dwellings.csv'"
   [triples]
-  (filter #(not (or (and (#{}
-                          (pr/predicate %1))
-                         (blank? (pr/object %1)))
-                    (blank? (pr/subject %1)))) triples))
+  (filter #(not (blank? (pr/subject %1))) triples))
 
 ;;
 ;;; Final pipeline
