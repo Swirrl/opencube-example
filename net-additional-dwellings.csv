@@ -1,0 +1,374 @@
+http://purl.org/linked-data/sdmx/2009/dimension#refArea,Reference Area,2000-2001,2001-2002,2002-2003,2003-2004,2004-2005,2005-2006,2006-2007,2007-2008,2008-2009,2009-2010,2010-2011
+http://statistics.data.gov.uk/id/local-authority-district/45UB,Adur,,,,,120,200,220,150,120,60,60
+http://statistics.data.gov.uk/id/local-authority-district/16UB,Allerdale,,,,,70,320,110,200,150,240,110
+http://statistics.data.gov.uk/id/local-authority-district/35UB,Alnwick,,,,,,,170,170,150,,
+http://statistics.data.gov.uk/id/local-authority-district/17UB,Amber Valley,,,,,260,390,530,550,340,220,260
+http://statistics.data.gov.uk/id/local-authority-district/45UC,Arun,,,,,350,240,320,590,550,420,520
+http://statistics.data.gov.uk/id/local-authority-district/37UB,Ashfield,,,,,360,550,650,570,280,390,350
+http://statistics.data.gov.uk/id/local-authority-district/29UB,Ashford,,,,,960,590,360,570,540,500,560
+http://statistics.data.gov.uk/id/local-authority-district/11UB,Aylesbury Vale,,,,,670,640,620,820,740,800,790
+http://statistics.data.gov.uk/id/local-authority-district/42UB,Babergh,,,,,190,190,280,300,290,190,
+http://statistics.data.gov.uk/id/local-authority-district/00AB,Barking and Dagenham,,,,,460,370,410,820,390,210,230
+http://statistics.data.gov.uk/id/local-authority-district/00AC,Barnet,,,,,970,970,410,1180,1020,770,660
+http://statistics.data.gov.uk/id/local-authority-district/00CC,Barnsley,,,,,1310,940,940,1150,860,550,1000
+http://statistics.data.gov.uk/id/local-authority-district/16UC,Barrow-in-Furness,,,,,90,40,100,70,80,50,80
+http://statistics.data.gov.uk/id/local-authority-district/22UB,Basildon,,,,,140,470,180,320,480,470,170
+http://statistics.data.gov.uk/id/local-authority-district/24UB,Basingstoke and Deane,,,,,890,920,730,1420,1300,1230,810
+http://statistics.data.gov.uk/id/local-authority-district/37UC,Bassetlaw,,,,,360,,450,510,360,160,270
+http://statistics.data.gov.uk/id/local-authority-district/00HA,Bath and North East Somerset,,,,,230,250,330,570,450,420,320
+http://statistics.data.gov.uk/id/local-authority-district/09UD,Bedford,,,,,640,470,460,630,410,,
+http://statistics.data.gov.uk/id/local-authority-district/00KB,Bedford,,,,,,,,,,470,630
+http://statistics.data.gov.uk/id/local-authority-district/35UC,Berwick-upon-Tweed,,,,,,,50,120,,,
+http://statistics.data.gov.uk/id/local-authority-district/00AD,Bexley,,,,,200,140,240,260,220,360,170
+http://statistics.data.gov.uk/id/local-authority-district/00CN,Birmingham,,,,,2450,3140,1830,2990,2460,930,990
+http://statistics.data.gov.uk/id/local-authority-district/31UB,Blaby,,,,,160,250,220,330,200,180,210
+http://statistics.data.gov.uk/id/local-authority-district/00EX,Blackburn with Darwen,,,,,-290,400,40,430,-110,140,180
+http://statistics.data.gov.uk/id/local-authority-district/00EY,Blackpool,,,,,350,350,290,470,420,110,290
+http://statistics.data.gov.uk/id/local-authority-district/35UD,Blyth Valley,,,,,,90,,180,60,,
+http://statistics.data.gov.uk/id/local-authority-district/17UC,Bolsover,,,,,200,270,210,220,240,200,200
+http://statistics.data.gov.uk/id/local-authority-district/00BL,Bolton,,,,,430,760,930,1170,530,370,330
+http://statistics.data.gov.uk/id/local-authority-district/32UB,Boston,,,,,290,270,270,500,280,90,100
+http://statistics.data.gov.uk/id/local-authority-district/00HN,Bournemouth,,,,,1100,960,1090,1530,1230,620,490
+http://statistics.data.gov.uk/id/local-authority-district/00MA,Bracknell Forest,,,,,240,270,130,500,470,330,410
+http://statistics.data.gov.uk/id/local-authority-district/00CX,Bradford,,,,,430,290,1580,640,1440,1000,700
+http://statistics.data.gov.uk/id/local-authority-district/22UC,Braintree,,,,,690,510,660,630,340,430,450
+http://statistics.data.gov.uk/id/local-authority-district/33UB,Breckland,,,,,840,590,520,630,610,530,380
+http://statistics.data.gov.uk/id/local-authority-district/00AE,Brent,,,,,360,1400,930,790,930,890,390
+http://statistics.data.gov.uk/id/local-authority-district/22UD,Brentwood,,,,,150,120,220,240,260,170,390
+http://statistics.data.gov.uk/id/local-authority-district/39UB,Bridgnorth,,,,,70,130,170,200,130,,
+http://statistics.data.gov.uk/id/local-authority-district/00ML,Brighton and Hove,,,,,600,540,800,570,720,380,280
+http://statistics.data.gov.uk/id/local-authority-district/00HB,Bristol,,,,,2040,1710,2050,2410,2570,2170,1500
+http://statistics.data.gov.uk/id/local-authority-district/33UC,Broadland,,,,,280,140,310,260,310,210,150
+http://statistics.data.gov.uk/id/local-authority-district/00AF,Bromley,,,,,760,680,880,700,490,550,670
+http://statistics.data.gov.uk/id/local-authority-district/47UB,Bromsgrove,,,,,510,,280,140,160,70,120
+http://statistics.data.gov.uk/id/local-authority-district/26UB,Broxbourne,,,,,910,490,260,280,180,320,270
+http://statistics.data.gov.uk/id/local-authority-district/37UD,Broxtowe,,,,,320,380,370,380,240,100,220
+http://statistics.data.gov.uk/id/local-authority-district/30UD,Burnley,,,,,30,90,110,180,150,-70,-60
+http://statistics.data.gov.uk/id/local-authority-district/00BM,Bury,,,,,720,910,350,380,270,200,250
+http://statistics.data.gov.uk/id/local-authority-district/00CY,Calderdale,,,,,830,1030,1240,1280,460,540,480
+http://statistics.data.gov.uk/id/local-authority-district/12UB,Cambridge,,,,,600,730,670,520,590,290,390
+http://statistics.data.gov.uk/id/local-authority-district/00AG,Camden,,,,,570,640,500,370,890,430,540
+http://statistics.data.gov.uk/id/local-authority-district/41UB,Cannock Chase,,,,,,280,550,240,240,170,260
+http://statistics.data.gov.uk/id/local-authority-district/29UC,Canterbury,,,,,780,530,640,1280,970,310,450
+http://statistics.data.gov.uk/id/local-authority-district/15UB,Caradon,,,,,370,340,250,460,440,,
+http://statistics.data.gov.uk/id/local-authority-district/16UD,Carlisle,,,,,490,470,340,270,410,230,260
+http://statistics.data.gov.uk/id/local-authority-district/15UC,Carrick,,,,,440,250,510,540,180,,
+http://statistics.data.gov.uk/id/local-authority-district/35UE,Castle Morpeth,,,,,90,130,200,200,130,,
+http://statistics.data.gov.uk/id/local-authority-district/22UE,Castle Point,,,,,290,220,120,110,110,120,440
+http://statistics.data.gov.uk/id/local-authority-district/00KC,Central Bedfordshire,,,,,,,,,,700,1230
+http://statistics.data.gov.uk/id/local-authority-district/31UC,Charnwood,,,,,910,710,970,920,710,640,560
+http://statistics.data.gov.uk/id/local-authority-district/22UF,Chelmsford,,,,,770,480,520,760,640,200,
+http://statistics.data.gov.uk/id/local-authority-district/23UB,Cheltenham,,,,,590,450,930,560,350,270,140
+http://statistics.data.gov.uk/id/local-authority-district/38UB,Cherwell,,,,,730,1070,850,450,430,440,370
+http://statistics.data.gov.uk/id/local-authority-district/00EQ,Cheshire East,,,,,,,,,,630,480
+http://statistics.data.gov.uk/id/local-authority-district/00EW,Cheshire West and Chester,,,,,,,,,,730,670
+http://statistics.data.gov.uk/id/local-authority-district/13UB,Chester,,,,,490,590,240,200,280,,
+http://statistics.data.gov.uk/id/local-authority-district/20UB,Chester-le-Street,,,,,30,30,90,140,100,,
+http://statistics.data.gov.uk/id/local-authority-district/17UD,Chesterfield,,,,,350,,380,430,60,20,70
+http://statistics.data.gov.uk/id/local-authority-district/45UD,Chichester,,,,,450,480,350,430,590,320,430
+http://statistics.data.gov.uk/id/local-authority-district/11UC,Chiltern,,,,,200,220,220,180,90,70,80
+http://statistics.data.gov.uk/id/local-authority-district/30UE,Chorley,,,,,480,490,120,330,360,440,530
+http://statistics.data.gov.uk/id/local-authority-district/19UC,Christchurch,,,,,90,130,130,190,100,100,100
+http://statistics.data.gov.uk/id/local-authority-district/00AA,City of London,,,,,160,50,50,100,100,40,100
+http://statistics.data.gov.uk/id/local-authority-district/22UG,Colchester,,,,,1280,900,1250,1240,1040,510,670
+http://statistics.data.gov.uk/id/local-authority-district/13UC,Congleton,,,,,280,330,170,190,110,,
+http://statistics.data.gov.uk/id/local-authority-district/16UE,Copeland,,,,,270,120,140,100,50,90,90
+http://statistics.data.gov.uk/id/local-authority-district/34UB,Corby,,,,,290,490,740,500,480,360,590
+http://statistics.data.gov.uk/id/local-authority-district/00HE,Cornwall,,,,,,,,,,2610,2060
+http://statistics.data.gov.uk/id/local-authority-district/23UC,Cotswold,,,,,380,180,320,210,550,180,230
+http://statistics.data.gov.uk/id/local-authority-district/00EJ,County Durham,,,,,,,,,,1020,1230
+http://statistics.data.gov.uk/id/local-authority-district/00CQ,Coventry,,,,,280,600,890,1100,680,760,730
+http://statistics.data.gov.uk/id/local-authority-district/36UB,Craven,,,,,230,200,190,150,330,110,140
+http://statistics.data.gov.uk/id/local-authority-district/45UE,Crawley,,,,,180,190,470,680,370,410,380
+http://statistics.data.gov.uk/id/local-authority-district/13UD,Crewe and Nantwich,,,,,730,780,850,810,470,,
+http://statistics.data.gov.uk/id/local-authority-district/00AH,Croydon,,,,,660,670,1030,1460,1530,1370,1120
+http://statistics.data.gov.uk/id/local-authority-district/26UC,Dacorum,,,,,300,170,410,390,410,240,600
+http://statistics.data.gov.uk/id/local-authority-district/00EH,Darlington,,,,,560,490,450,550,250,210,200
+http://statistics.data.gov.uk/id/local-authority-district/29UD,Dartford,,,,,630,180,660,600,610,,360
+http://statistics.data.gov.uk/id/local-authority-district/34UC,Daventry,,,,,250,,,320,180,170,
+http://statistics.data.gov.uk/id/local-authority-district/00FK,Derby,,,,,780,880,1050,1100,480,370,550
+http://statistics.data.gov.uk/id/local-authority-district/17UF,Derbyshire Dales,,,,,220,180,190,240,170,,190
+http://statistics.data.gov.uk/id/local-authority-district/20UD,Derwentside,,,,,190,350,70,600,420,,
+http://statistics.data.gov.uk/id/local-authority-district/00CE,Doncaster,,,,,,,920,,1340,140,450
+http://statistics.data.gov.uk/id/local-authority-district/29UE,Dover,,,,,330,430,330,340,270,260,180
+http://statistics.data.gov.uk/id/local-authority-district/00CR,Dudley,,,,,620,550,770,540,690,150,520
+http://statistics.data.gov.uk/id/local-authority-district/20UE,Durham,,,,,230,430,460,450,,,
+http://statistics.data.gov.uk/id/local-authority-district/00AJ,Ealing,,,,,460,810,1350,1400,830,500,260
+http://statistics.data.gov.uk/id/local-authority-district/20UF,Easington,,,,,260,400,650,480,230,,
+http://statistics.data.gov.uk/id/local-authority-district/12UC,East Cambridgeshire,,,,,400,800,690,750,480,210,370
+http://statistics.data.gov.uk/id/local-authority-district/18UB,East Devon,,,,,730,580,400,280,350,,
+http://statistics.data.gov.uk/id/local-authority-district/19UD,East Dorset,,,,,230,170,130,160,100,80,160
+http://statistics.data.gov.uk/id/local-authority-district/24UC,East Hampshire,,,,,480,360,280,550,580,270,270
+http://statistics.data.gov.uk/id/local-authority-district/26UD,East Hertfordshire,,,,,360,550,780,560,550,470,200
+http://statistics.data.gov.uk/id/local-authority-district/32UC,East Lindsey,,,,,500,540,730,530,590,920,240
+http://statistics.data.gov.uk/id/government-office-region/E,East Midlands,,,,,17360,20090,22070,20600,14210,12790,11730
+http://statistics.data.gov.uk/id/local-authority-district/34UD,East Northamptonshire,,,,,570,650,460,540,170,210,220
+http://statistics.data.gov.uk/id/local-authority-district/00FB,East Riding of Yorkshire,,,,,1460,1230,1390,1550,470,930,1110
+http://statistics.data.gov.uk/id/local-authority-district/41UC,East Staffordshire,,,,,,630,220,480,400,240,
+http://statistics.data.gov.uk/id/government-office-region/G,East of England,,,,,22370,24530,24930,26750,20700,16220,17050
+http://statistics.data.gov.uk/id/local-authority-district/21UC,Eastbourne,,,,,760,550,390,280,390,220,120
+http://statistics.data.gov.uk/id/local-authority-district/24UD,Eastleigh,,,,,910,540,740,420,520,440,360
+http://statistics.data.gov.uk/id/local-authority-district/16UF,Eden,,,,,180,130,170,150,100,110,110
+http://statistics.data.gov.uk/id/local-authority-district/13UE,Ellesmere Port & Neston,,,,,310,280,140,230,230,,
+http://statistics.data.gov.uk/id/local-authority-district/43UB,Elmbridge,,,,,460,360,380,280,260,200,360
+http://statistics.data.gov.uk/id/local-authority-district/00AK,Enfield,,,,,370,210,710,940,330,280,460
+http://data.ordnancesurvey.co.uk/id/country/england,England,132000,130510,143680,154770,169450,186380,198770,207370,166570,128680,121200
+http://statistics.data.gov.uk/id/local-authority-district/22UH,Epping Forest,,,,,240,290,280,110,140,250,370
+http://statistics.data.gov.uk/id/local-authority-district/43UC,Epsom and Ewell,,,,,190,210,310,280,220,100,250
+http://statistics.data.gov.uk/id/local-authority-district/17UG,Erewash,,,,,250,690,360,480,410,190,210
+http://statistics.data.gov.uk/id/local-authority-district/18UC,Exeter,,,,,480,730,890,510,410,300,550
+http://statistics.data.gov.uk/id/local-authority-district/24UE,Fareham,,,,,290,310,580,550,320,190,360
+http://statistics.data.gov.uk/id/local-authority-district/12UD,Fenland,,,,,640,780,760,930,310,250,300
+http://statistics.data.gov.uk/id/local-authority-district/42UC,Forest Heath,,,,,200,330,270,550,310,,370
+http://statistics.data.gov.uk/id/local-authority-district/23UD,Forest of Dean,,,,,230,230,210,410,310,100,230
+http://statistics.data.gov.uk/id/local-authority-district/30UF,Fylde,,,,,250,140,170,380,300,150,120
+http://statistics.data.gov.uk/id/local-authority-district/00CH,Gateshead,,,,,760,190,530,500,220,170,130
+http://statistics.data.gov.uk/id/local-authority-district/37UE,Gedling,,,,,240,240,300,450,200,270,340
+http://statistics.data.gov.uk/id/local-authority-district/23UE,Gloucester,,,,,560,790,960,1050,620,650,590
+http://statistics.data.gov.uk/id/local-authority-district/24UF,Gosport,,,,,430,500,690,280,200,20,40
+http://statistics.data.gov.uk/id/local-authority-district/29UG,Gravesham,,,,,460,270,310,240,440,190,190
+http://statistics.data.gov.uk/id/local-authority-district/33UD,Great Yarmouth,,,,,360,340,340,350,330,380,260
+http://statistics.data.gov.uk/id/local-authority-district/00AL,Greenwich,,,,,2080,1840,1200,780,760,550,990
+http://statistics.data.gov.uk/id/local-authority-district/43UD,Guildford,,,,,340,500,340,640,150,220,180
+http://statistics.data.gov.uk/id/local-authority-district/00AM,Hackney,,,,,810,860,1110,1570,2050,1630,
+http://statistics.data.gov.uk/id/local-authority-district/00ET,Halton,,,,,410,740,420,310,390,110,170
+http://statistics.data.gov.uk/id/local-authority-district/36UC,Hambleton,,,,,190,330,300,330,210,150,160
+http://statistics.data.gov.uk/id/local-authority-district/00AN,Hammersmith and Fulham,,,,,440,620,620,510,450,880,460
+http://statistics.data.gov.uk/id/local-authority-district/31UD,Harborough,,,,,230,280,450,590,260,,
+http://statistics.data.gov.uk/id/local-authority-district/00AP,Haringey,,,,,860,580,890,540,740,540,
+http://statistics.data.gov.uk/id/local-authority-district/22UJ,Harlow,,,,,100,360,160,150,260,110,110
+http://statistics.data.gov.uk/id/local-authority-district/36UD,Harrogate,,,,,370,340,330,360,270,360,170
+http://statistics.data.gov.uk/id/local-authority-district/00AQ,Harrow,,,,,560,570,620,370,770,510,440
+http://statistics.data.gov.uk/id/local-authority-district/24UG,Hart,,,,,640,530,400,230,50,-20,70
+http://statistics.data.gov.uk/id/local-authority-district/00EB,Hartlepool,,,,,200,220,220,-170,470,300,310
+http://statistics.data.gov.uk/id/local-authority-district/21UD,Hastings,,,,,210,340,200,280,240,160,80
+http://statistics.data.gov.uk/id/local-authority-district/24UH,Havant,,,,,210,280,240,390,250,150,230
+http://statistics.data.gov.uk/id/local-authority-district/00AR,Havering,,,,,460,380,850,330,650,430,
+http://statistics.data.gov.uk/id/local-authority-district/00GA,Herefordshire,,,,,580,770,820,770,610,,
+http://statistics.data.gov.uk/id/local-authority-district/26UE,Hertsmere,,,,,190,320,270,360,230,280,160
+http://statistics.data.gov.uk/id/local-authority-district/17UH,High Peak,,,,,370,470,600,350,170,120,160
+http://statistics.data.gov.uk/id/local-authority-district/00AS,Hillingdon,,,,,240,500,190,400,790,510,300
+http://statistics.data.gov.uk/id/local-authority-district/31UE,Hinckley and Bosworth,,,,,580,450,440,400,470,350,230
+http://statistics.data.gov.uk/id/local-authority-district/45UF,Horsham,,,,,330,650,390,220,310,230,160
+http://statistics.data.gov.uk/id/local-authority-district/00AT,Hounslow,,,,,570,530,1410,1660,540,590,670
+http://statistics.data.gov.uk/id/local-authority-district/12UE,Huntingdonshire,,,,,700,740,650,730,820,810,800
+http://statistics.data.gov.uk/id/local-authority-district/30UG,Hyndburn,,,,,200,140,60,100,120,,
+http://statistics.data.gov.uk/id/local-authority-district/42UD,Ipswich,,,,,720,780,990,1410,940,390,490
+http://statistics.data.gov.uk/id/local-authority-district/00MW,Isle of Wight,,,,,310,770,1620,580,610,390,400
+http://statistics.data.gov.uk/id/local-authority-district/00HF,Isles of Scilly,,,,,20,10,,20,,,
+http://statistics.data.gov.uk/id/local-authority-district/00AU,Islington,,,,,620,820,1770,1670,2270,1530,510
+http://statistics.data.gov.uk/id/local-authority-district/46UB,Kennet,,,,,330,290,330,600,,,
+http://statistics.data.gov.uk/id/local-authority-district/00AW,Kensington and Chelsea,,,,,280,200,160,70,100,330,170
+http://statistics.data.gov.uk/id/local-authority-district/15UD,Kerrier,,,,,270,250,370,460,510,,
+http://statistics.data.gov.uk/id/local-authority-district/34UE,Kettering,,,,,460,640,740,690,420,400,
+http://statistics.data.gov.uk/id/local-authority-district/33UE,King's Lynn and West Norfolk,,,,,820,680,640,1100,590,310,560
+http://statistics.data.gov.uk/id/local-authority-district/00FA,Kingston upon Hull,,,,,-130,290,710,540,260,-90,360
+http://statistics.data.gov.uk/id/local-authority-district/00AX,Kingston upon Thames,,,,,540,360,320,290,180,140,140
+http://statistics.data.gov.uk/id/local-authority-district/00CZ,Kirklees,,,,,820,980,2270,2290,1100,690,
+http://statistics.data.gov.uk/id/local-authority-district/00BX,Knowsley,,,,,-220,-10,440,70,250,-60,170
+http://statistics.data.gov.uk/id/local-authority-district/00AY,Lambeth,,,,,800,1150,1130,1210,1100,1150,1340
+http://statistics.data.gov.uk/id/local-authority-district/30UH,Lancaster,,,,,340,250,180,330,330,100,80
+http://statistics.data.gov.uk/id/local-authority-district/00DA,Leeds,,,,,2630,3440,3330,3580,3830,2240,1690
+http://statistics.data.gov.uk/id/local-authority-district/00FN,Leicester,,,,,960,1130,1220,940,1210,930,1190
+http://statistics.data.gov.uk/id/local-authority-district/21UF,Lewes,,,,,170,200,300,420,260,180,160
+http://statistics.data.gov.uk/id/local-authority-district/00AZ,Lewisham,,,,,500,750,370,800,920,780,730
+http://statistics.data.gov.uk/id/local-authority-district/41UD,Lichfield,,,,,600,650,340,580,270,,
+http://statistics.data.gov.uk/id/local-authority-district/32UD,Lincoln,,,,,370,410,530,500,260,360,400
+http://statistics.data.gov.uk/id/local-authority-district/00BY,Liverpool,,,,,1160,1520,2100,1490,2280,920,230
+http://statistics.data.gov.uk/id/government-office-region/H,London,,,,,22890,24860,26940,27570,28300,24340,17830
+http://statistics.data.gov.uk/id/local-authority-district/00KA,Luton,,,,,560,570,410,480,420,390,220
+http://statistics.data.gov.uk/id/local-authority-district/13UG,Macclesfield,,,,,210,390,250,360,160,,
+http://statistics.data.gov.uk/id/local-authority-district/29UH,Maidstone,,,,,820,760,710,990,440,580,
+http://statistics.data.gov.uk/id/local-authority-district/22UK,Maldon,,,,,180,170,140,160,160,110,40
+http://statistics.data.gov.uk/id/local-authority-district/47UC,Malvern Hills,,,,,200,170,280,310,260,220,140
+http://statistics.data.gov.uk/id/local-authority-district/00BN,Manchester,,,,,2980,2680,4580,5150,1890,1500,550
+http://statistics.data.gov.uk/id/local-authority-district/37UF,Mansfield,,,,,170,330,500,260,210,200,350
+http://statistics.data.gov.uk/id/local-authority-district/00LC,Medway,,,,,650,530,590,760,910,,660
+http://statistics.data.gov.uk/id/local-authority-district/31UG,Melton,,,,,120,,190,240,280,240,160
+http://statistics.data.gov.uk/id/local-authority-district/40UB,Mendip,,,,,370,580,550,600,570,400,480
+http://statistics.data.gov.uk/id/local-authority-district/00BA,Merton,,,,,350,680,400,560,770,330,360
+http://statistics.data.gov.uk/id/local-authority-district/09UC,Mid Bedfordshire,,,,,450,880,850,720,720,,
+http://statistics.data.gov.uk/id/local-authority-district/18UD,Mid Devon,,,,,400,510,430,430,30,280,270
+http://statistics.data.gov.uk/id/local-authority-district/42UE,Mid Suffolk,,,,,380,550,810,510,430,420,310
+http://statistics.data.gov.uk/id/local-authority-district/45UG,Mid Sussex,,,,,460,610,340,500,480,240,170
+http://statistics.data.gov.uk/id/local-authority-district/00EC,Middlesbrough,,,,,100,40,360,220,-100,60,190
+http://statistics.data.gov.uk/id/local-authority-district/00MG,Milton Keynes,,,,,1360,1800,1660,2300,1840,1410,1300
+http://statistics.data.gov.uk/id/local-authority-district/43UE,Mole Valley,,,,,200,190,580,270,170,120,110
+http://statistics.data.gov.uk/id/local-authority-district/24UJ,New Forest,,,,,500,400,300,440,530,240,260
+http://statistics.data.gov.uk/id/local-authority-district/37UG,Newark and Sherwood,,,,,690,560,480,330,350,400,
+http://statistics.data.gov.uk/id/local-authority-district/00CJ,Newcastle upon Tyne,,,,,380,510,430,390,-20,20,280
+http://statistics.data.gov.uk/id/local-authority-district/41UE,Newcastle-under-Lyme,,,,,220,230,210,140,280,220,180
+http://statistics.data.gov.uk/id/local-authority-district/00BB,Newham,,,,,590,920,740,940,1090,1480,790
+http://statistics.data.gov.uk/id/local-authority-district/15UE,North Cornwall,,,,,430,390,510,530,220,,
+http://statistics.data.gov.uk/id/local-authority-district/18UE,North Devon,,,,,440,440,480,420,340,330,220
+http://statistics.data.gov.uk/id/local-authority-district/19UE,North Dorset,,,,,490,560,270,190,200,190,270
+http://statistics.data.gov.uk/id/government-office-region/A,North East,,,,,5580,5540,7170,7510,4310,3740,4710
+http://statistics.data.gov.uk/id/local-authority-district/17UJ,North East Derbyshire,,,,,230,330,510,310,230,210,140
+http://statistics.data.gov.uk/id/local-authority-district/00FC,North East Lincolnshire,,,,,240,190,360,560,80,250,210
+http://statistics.data.gov.uk/id/local-authority-district/26UF,North Hertfordshire,,,,,450,590,620,720,460,330,410
+http://statistics.data.gov.uk/id/local-authority-district/32UE,North Kesteven,,,,,,,810,610,430,410,510
+http://statistics.data.gov.uk/id/local-authority-district/00FD,North Lincolnshire,,,,,,1140,690,470,400,380,460
+http://statistics.data.gov.uk/id/local-authority-district/33UF,North Norfolk,,,,,250,450,340,550,260,420,180
+http://statistics.data.gov.uk/id/local-authority-district/39UC,North Shropshire,,,,,280,400,290,290,370,,
+http://statistics.data.gov.uk/id/local-authority-district/00HC,North Somerset,,,,,1060,1250,1130,1470,940,770,640
+http://statistics.data.gov.uk/id/local-authority-district/00CK,North Tyneside,,,,,730,750,560,610,310,290,260
+http://statistics.data.gov.uk/id/local-authority-district/44UB,North Warwickshire,,,,,130,,170,140,110,90,100
+http://statistics.data.gov.uk/id/government-office-region/B,North West,,,,,18150,20570,22750,26050,16310,10140,8530
+http://statistics.data.gov.uk/id/local-authority-district/31UH,North West Leicestershire,,,,,310,410,320,350,240,230,190
+http://statistics.data.gov.uk/id/local-authority-district/46UC,North Wiltshire,,,,,760,870,850,840,,,
+http://statistics.data.gov.uk/id/local-authority-district/34UF,Northampton,,,,,,1550,1840,1020,710,350,320
+http://statistics.data.gov.uk/id/local-authority-district/00EM,Northumberland,,,,,,,,,,480,1010
+http://statistics.data.gov.uk/id/local-authority-district/33UG,Norwich,,,,,690,880,950,1040,530,370,380
+http://statistics.data.gov.uk/id/local-authority-district/00FY,Nottingham,,,,,1050,970,1270,1170,720,910,300
+http://statistics.data.gov.uk/id/local-authority-district/44UC,Nuneaton and Bedworth,,,,,490,700,330,300,300,150,340
+http://statistics.data.gov.uk/id/local-authority-district/31UJ,Oadby and Wigston,,,,,140,120,160,40,90,90,80
+http://statistics.data.gov.uk/id/local-authority-district/00BP,Oldham,,,,,110,230,290,400,400,-80,60
+http://statistics.data.gov.uk/id/local-authority-district/39UD,Oswestry,,,,,260,240,260,190,190,,
+http://statistics.data.gov.uk/id/local-authority-district/38UC,Oxford,,,,,640,920,830,530,670,,220
+http://statistics.data.gov.uk/id/local-authority-district/30UJ,Pendle,,,,,230,320,260,200,-40,-70,60
+http://statistics.data.gov.uk/id/local-authority-district/15UF,Penwith,,,,,300,310,290,450,570,,
+http://statistics.data.gov.uk/id/local-authority-district/00JA,Peterborough,,,,,870,850,1250,990,1040,1110,710
+http://statistics.data.gov.uk/id/local-authority-district/00HG,Plymouth,,,,,980,740,1360,790,910,410,540
+http://statistics.data.gov.uk/id/local-authority-district/00HP,Poole,,,,,410,830,670,620,850,420,260
+http://statistics.data.gov.uk/id/local-authority-district/00MR,Portsmouth,,,,,740,630,530,710,1310,730,320
+http://statistics.data.gov.uk/id/local-authority-district/30UK,Preston,,,,,610,590,440,350,260,10,120
+http://statistics.data.gov.uk/id/local-authority-district/19UG,Purbeck,,,,,90,160,190,210,190,170,80
+http://statistics.data.gov.uk/id/local-authority-district/00MC,Reading,,,,,1180,660,640,840,780,690,
+http://statistics.data.gov.uk/id/local-authority-district/00BC,Redbridge,,,,,710,760,1020,630,620,950,460
+http://statistics.data.gov.uk/id/local-authority-district/00EE,Redcar and Cleveland,,,,,,70,310,120,220,70,60
+http://statistics.data.gov.uk/id/local-authority-district/47UD,Redditch,,,,,320,280,470,240,100,170,120
+http://statistics.data.gov.uk/id/local-authority-district/43UF,Reigate and Banstead,,,,,460,620,610,600,840,430,
+http://statistics.data.gov.uk/id/local-authority-district/15UG,Restormel,,,,,660,510,570,700,780,,
+http://statistics.data.gov.uk/id/local-authority-district/30UL,Ribble Valley,,,,,,160,80,60,80,90,70
+http://statistics.data.gov.uk/id/local-authority-district/00BD,Richmond upon Thames,,,,,580,900,240,310,350,220,320
+http://statistics.data.gov.uk/id/local-authority-district/36UE,Richmondshire,,,,,,130,160,190,80,40,40
+http://statistics.data.gov.uk/id/local-authority-district/00BQ,Rochdale,,,,,40,400,130,420,380,40,190
+http://statistics.data.gov.uk/id/local-authority-district/22UL,Rochford,,,,,60,260,450,170,100,90,40
+http://statistics.data.gov.uk/id/local-authority-district/30UM,Rossendale,,,,,,,120,190,60,170,70
+http://statistics.data.gov.uk/id/local-authority-district/21UG,Rother,,,,,260,230,400,410,200,100,220
+http://statistics.data.gov.uk/id/local-authority-district/00CF,Rotherham,,,,,490,330,550,520,610,320,470
+http://statistics.data.gov.uk/id/local-authority-district/44UD,Rugby,,,,,410,580,1490,700,380,410,420
+http://statistics.data.gov.uk/id/local-authority-district/43UG,Runnymede,,,,,220,520,200,250,230,,170
+http://statistics.data.gov.uk/id/local-authority-district/37UJ,Rushcliffe,,,,,480,260,460,490,190,230,210
+http://statistics.data.gov.uk/id/local-authority-district/24UL,Rushmoor,,,,,530,640,830,300,300,550,250
+http://statistics.data.gov.uk/id/local-authority-district/00FP,Rutland,,,,,,,190,90,120,110,110
+http://statistics.data.gov.uk/id/local-authority-district/36UF,Ryedale,,,,,110,,130,210,90,110,170
+http://statistics.data.gov.uk/id/local-authority-district/00BR,Salford,,,,,480,410,1720,2610,1550,480,460
+http://statistics.data.gov.uk/id/local-authority-district/46UD,Salisbury,,,,,230,440,370,460,,,
+http://statistics.data.gov.uk/id/local-authority-district/00CS,Sandwell,,,,,730,1040,1120,1150,440,470,420
+http://statistics.data.gov.uk/id/local-authority-district/36UG,Scarborough,,,,,440,410,600,290,200,210,240
+http://statistics.data.gov.uk/id/local-authority-district/20UG,Sedgefield,,,,,120,130,200,200,120,,
+http://statistics.data.gov.uk/id/local-authority-district/40UC,Sedgemoor,,,,,540,600,550,660,600,540,630
+http://statistics.data.gov.uk/id/local-authority-district/00CA,Sefton,,,,,300,270,130,550,100,390,220
+http://statistics.data.gov.uk/id/local-authority-district/36UH,Selby,,,,,450,620,830,560,210,300,420
+http://statistics.data.gov.uk/id/local-authority-district/29UK,Sevenoaks,,,,,220,470,150,260,290,210,280
+http://statistics.data.gov.uk/id/local-authority-district/00CG,Sheffield,,,,,-140,1180,1180,2440,,1640,650
+http://statistics.data.gov.uk/id/local-authority-district/29UL,Shepway,,,,,380,750,150,400,560,190,130
+http://statistics.data.gov.uk/id/local-authority-district/39UE,Shrewsbury and Atcham,,,,,330,350,250,250,330,,
+http://statistics.data.gov.uk/id/local-authority-district/00GG,Shropshire,,,,,,,,,,1100,990
+http://statistics.data.gov.uk/id/local-authority-district/00MD,Slough,,,,,840,390,330,890,600,280,250
+http://statistics.data.gov.uk/id/local-authority-district/00CT,Solihull,,,,,580,870,710,540,480,340,220
+http://statistics.data.gov.uk/id/local-authority-district/09UE,South Bedfordshire,,,,,560,740,320,650,220,,
+http://statistics.data.gov.uk/id/local-authority-district/11UE,South Bucks,,,,,170,130,200,380,190,110,130
+http://statistics.data.gov.uk/id/local-authority-district/12UG,South Cambridgeshire,,,,,570,880,920,1290,620,610,660
+http://statistics.data.gov.uk/id/local-authority-district/17UK,South Derbyshire,,,,,760,490,450,810,360,310,430
+http://statistics.data.gov.uk/id/government-office-region/J,South East,,,,,32050,33280,34560,35410,32320,22080,22370
+http://statistics.data.gov.uk/id/local-authority-district/00HD,South Gloucestershire,,,,,550,640,690,1000,920,740,710
+http://statistics.data.gov.uk/id/local-authority-district/18UG,South Hams,,,,,320,240,180,140,320,250,200
+http://statistics.data.gov.uk/id/local-authority-district/32UF,South Holland,,,,,540,520,350,560,420,290,210
+http://statistics.data.gov.uk/id/local-authority-district/32UG,South Kesteven,,,,,690,670,960,890,650,520,550
+http://statistics.data.gov.uk/id/local-authority-district/16UG,South Lakeland,,,,,,290,240,160,190,340,140
+http://statistics.data.gov.uk/id/local-authority-district/33UH,South Norfolk,,,,,430,340,600,1220,910,650,640
+http://statistics.data.gov.uk/id/local-authority-district/34UG,South Northamptonshire,,,,,600,290,260,250,220,260,210
+http://statistics.data.gov.uk/id/local-authority-district/38UD,South Oxfordshire,,,,,160,190,190,510,250,190,210
+http://statistics.data.gov.uk/id/local-authority-district/30UN,South Ribble,,,,,660,490,280,320,310,170,270
+http://statistics.data.gov.uk/id/local-authority-district/39UF,South Shropshire,,,,,140,200,270,150,230,,
+http://statistics.data.gov.uk/id/local-authority-district/40UD,South Somerset,,,,,770,780,700,710,650,510,1060
+http://statistics.data.gov.uk/id/local-authority-district/41UF,South Staffordshire,,,,,220,310,170,370,320,360,190
+http://statistics.data.gov.uk/id/local-authority-district/00CL,South Tyneside,,,,,110,150,410,290,190,200,220
+http://statistics.data.gov.uk/id/government-office-region/K,South West,,,,,22700,22720,24900,27420,22870,17910,17920
+http://statistics.data.gov.uk/id/local-authority-district/00MS,Southampton,,,,,1010,1030,1270,900,1030,530,790
+http://statistics.data.gov.uk/id/local-authority-district/00KF,Southend-on-Sea,,,,,480,610,440,230,320,140,
+http://statistics.data.gov.uk/id/local-authority-district/00BE,Southwark,,,,,1600,1150,1890,1730,1050,1330,1430
+http://statistics.data.gov.uk/id/local-authority-district/43UH,Spelthorne,,,,,270,130,180,180,190,210,140
+http://statistics.data.gov.uk/id/local-authority-district/26UG,St Albans,,,,,600,330,380,290,400,270,380
+http://statistics.data.gov.uk/id/local-authority-district/42UF,St Edmundsbury,,,,,170,370,540,550,390,350,290
+http://statistics.data.gov.uk/id/local-authority-district/00BZ,St. Helens,,,,,690,530,600,440,240,400,160
+http://statistics.data.gov.uk/id/local-authority-district/41UG,Stafford,,,,,570,600,320,570,470,170,210
+http://statistics.data.gov.uk/id/local-authority-district/41UH,Staffordshire Moorlands,,,,,350,380,260,260,240,190,110
+http://statistics.data.gov.uk/id/local-authority-district/26UH,Stevenage,,,,,170,130,350,390,370,230,300
+http://statistics.data.gov.uk/id/local-authority-district/00BS,Stockport,,,,,410,490,800,630,330,210,190
+http://statistics.data.gov.uk/id/local-authority-district/00EF,Stockton-on-Tees,,,,,350,390,550,1140,500,540,460
+http://statistics.data.gov.uk/id/local-authority-district/00GL,Stoke-on-Trent,,,,,760,700,620,640,230,60,790
+http://statistics.data.gov.uk/id/local-authority-district/44UE,Stratford-on-Avon,,,,,790,660,460,390,190,200,120
+http://statistics.data.gov.uk/id/local-authority-district/23UF,Stroud,,,,,340,320,320,560,560,320,290
+http://statistics.data.gov.uk/id/local-authority-district/42UG,Suffolk Coastal,,,,,350,900,1150,690,550,260,220
+http://statistics.data.gov.uk/id/local-authority-district/00CM,Sunderland,,,,,370,250,120,190,300,390,380
+http://statistics.data.gov.uk/id/local-authority-district/43UJ,Surrey Heath,,,,,140,400,350,120,340,30,40
+http://statistics.data.gov.uk/id/local-authority-district/00BF,Sutton,,,,,440,280,270,620,470,200,330
+http://statistics.data.gov.uk/id/local-authority-district/29UM,Swale,,,,,380,850,840,770,490,710,430
+http://statistics.data.gov.uk/id/local-authority-district/00HX,Swindon,,,,,1710,1550,2260,1940,970,880,780
+http://statistics.data.gov.uk/id/local-authority-district/00BT,Tameside,,,,,390,680,560,790,650,260,
+http://statistics.data.gov.uk/id/local-authority-district/41UK,Tamworth,,,,,320,230,460,200,210,150,140
+http://statistics.data.gov.uk/id/local-authority-district/43UK,Tandridge,,,,,240,290,430,290,300,170,160
+http://statistics.data.gov.uk/id/local-authority-district/40UE,Taunton Deane,,,,,460,400,370,550,420,440,400
+http://statistics.data.gov.uk/id/local-authority-district/20UH,Teesdale,,,,,90,60,60,30,40,,
+http://statistics.data.gov.uk/id/local-authority-district/18UH,Teignbridge,,,,,470,340,390,290,310,330,400
+http://statistics.data.gov.uk/id/local-authority-district/00GF,Telford and Wrekin,,,,,190,580,490,370,460,480,550
+http://statistics.data.gov.uk/id/local-authority-district/22UN,Tendring,,,,,420,560,560,500,380,340,220
+http://statistics.data.gov.uk/id/local-authority-district/24UN,Test Valley,,,,,320,370,290,340,150,440,390
+http://statistics.data.gov.uk/id/local-authority-district/23UG,Tewkesbury,,,,,180,310,420,680,140,300,330
+http://statistics.data.gov.uk/id/local-authority-district/29UN,Thanet,,,,,440,370,650,610,730,520,890
+http://statistics.data.gov.uk/id/local-authority-district/00KG,The Borough of Thurrock,,,,,1170,740,410,160,130,90,290
+http://statistics.data.gov.uk/id/local-authority-district/29UP,The Borough of Tonbridge and Malling,,,,,980,730,850,840,890,370,350
+http://statistics.data.gov.uk/id/local-authority-district/00HH,The Borough of Torbay,,,,,400,420,440,730,450,320,400
+http://statistics.data.gov.uk/id/local-authority-district/00BU,The Borough of Trafford,,,,,,,590,810,340,280,260
+http://statistics.data.gov.uk/id/local-authority-district/29UQ,The Borough of Tunbridge Wells,,,,,380,260,520,520,410,100,320
+http://statistics.data.gov.uk/id/local-authority-district/00CU,The Borough of Walsall,,,,,630,290,-30,-210,-150,1700,830
+http://statistics.data.gov.uk/id/local-authority-district/00EU,The Borough of Warrington,,,,,1090,1250,1380,1820,630,400,530
+http://statistics.data.gov.uk/id/local-authority-district/26UK,The Borough of Watford,,,,,360,590,250,290,330,520,630
+http://statistics.data.gov.uk/id/local-authority-district/43UL,The Borough of Waverley,,,,,230,250,380,260,310,180,140
+http://statistics.data.gov.uk/id/local-authority-district/34UH,The Borough of Wellingborough,,,,,270,350,390,480,300,150,100
+http://statistics.data.gov.uk/id/local-authority-district/26UL,The Borough of Welwyn Hatfield,,,,,640,710,680,750,330,60,200
+http://statistics.data.gov.uk/id/local-authority-district/18UL,The Borough of West Devon,,,,,190,170,200,530,360,230,420
+http://statistics.data.gov.uk/id/local-authority-district/19UJ,The Borough of Weymouth and Portland,,,,,290,360,180,280,400,150,210
+http://statistics.data.gov.uk/id/local-authority-district/00BW,The Borough of Wigan,,,,,900,760,1280,1470,780,500,450
+http://statistics.data.gov.uk/id/local-authority-district/00CB,The Borough of Wirral,,,,,220,170,600,690,340,190,100
+http://statistics.data.gov.uk/id/local-authority-district/43UM,The Borough of Woking,,,,,270,550,380,270,360,260,150
+http://statistics.data.gov.uk/id/local-authority-district/45UH,The Borough of Worthing,,,,,220,280,270,260,380,250,240
+http://statistics.data.gov.uk/id/local-authority-district/30UQ,The Borough of Wyre,,,,,,,230,310,180,240,
+http://statistics.data.gov.uk/id/local-authority-district/00DB,The City of Wakefield,,,,,990,1040,930,1770,1200,770,1060
+http://statistics.data.gov.uk/id/local-authority-district/00BK,The City of Westminster,,,,,530,1070,650,760,720,690,760
+http://statistics.data.gov.uk/id/local-authority-district/24UP,The City of Winchester,,,,,690,490,500,560,360,290,500
+http://statistics.data.gov.uk/id/local-authority-district/00CW,The City of Wolverhampton,,,,,520,,300,360,430,250,60
+http://statistics.data.gov.uk/id/local-authority-district/47UE,The City of Worcester,,,,,220,410,460,370,410,320,
+http://statistics.data.gov.uk/id/local-authority-district/00FF,The City of York,,,,,100,920,540,340,130,380,230
+http://statistics.data.gov.uk/id/local-authority-district/00HY,The County of Wiltshire,,,,,,,,,,1650,2080
+http://statistics.data.gov.uk/id/local-authority-district/26UJ,The District of Three Rivers,,,,,70,200,340,250,330,50,110
+http://statistics.data.gov.uk/id/local-authority-district/18UK,The District of Torridge,,,,,430,320,370,420,630,260,210
+http://statistics.data.gov.uk/id/local-authority-district/22UQ,The District of Uttlesford,,,,,340,550,330,540,440,520,300
+http://statistics.data.gov.uk/id/local-authority-district/38UE,The District of Vale of White Horse,,,,,750,630,540,460,320,440,330
+http://statistics.data.gov.uk/id/local-authority-district/44UF,The District of Warwick,,,,,690,750,480,580,410,180,80
+http://statistics.data.gov.uk/id/local-authority-district/42UH,The District of Waveney,,,,,370,270,190,320,260,280,250
+http://statistics.data.gov.uk/id/local-authority-district/21UH,The District of Wealden,,,,,130,170,230,420,350,340,710
+http://statistics.data.gov.uk/id/local-authority-district/00MB,The District of West Berkshire,,,,,970,1070,1060,680,530,250,200
+http://statistics.data.gov.uk/id/local-authority-district/19UH,The District of West Dorset,,,,,540,560,520,350,380,200,340
+http://statistics.data.gov.uk/id/local-authority-district/30UP,The District of West Lancashire,,,,,380,200,280,200,140,110,70
+http://statistics.data.gov.uk/id/local-authority-district/32UH,The District of West Lindsey,,,,,780,860,850,670,510,490,350
+http://statistics.data.gov.uk/id/local-authority-district/38UF,The District of West Oxfordshire,,,,,630,740,810,880,580,380,420
+http://statistics.data.gov.uk/id/local-authority-district/40UF,The District of West Somerset,,,,,120,190,220,150,,,
+http://statistics.data.gov.uk/id/local-authority-district/00MF,The District of Wokingham,,,,,380,660,1020,490,370,230,220
+http://statistics.data.gov.uk/id/local-authority-district/47UF,The District of Wychavon,,,,,430,300,300,260,220,180,200
+http://statistics.data.gov.uk/id/local-authority-district/11UF,The District of Wycombe,,,,,210,300,600,610,630,300,580
+http://statistics.data.gov.uk/id/local-authority-district/47UG,The District of Wyre Forest,,,,,510,380,300,190,240,200,150
+http://statistics.data.gov.uk/id/local-authority-district/00BG,The London Borough of Tower Hamlets,,,,,2470,2400,2440,2060,2890,2460,1300
+http://statistics.data.gov.uk/id/local-authority-district/00BH,The London Borough of Waltham Forest,,,,,390,530,690,740,730,140,420
+http://statistics.data.gov.uk/id/local-authority-district/00BJ,The London Borough of Wandsworth,,,,,1490,1110,1450,1030,1580,1570,480
+http://statistics.data.gov.uk/id/local-authority-district/00ME,The Royal Borough of Windsor and Maidenhead,,,,,350,400,360,450,470,350,190
+http://statistics.data.gov.uk/id/local-authority-district/35UF,Tynedale,,,,,260,170,260,150,130,,
+http://statistics.data.gov.uk/id/local-authority-district/13UH,Vale Royal,,,,,380,440,470,280,170,,
+http://statistics.data.gov.uk/id/local-authority-district/35UG,Wansbeck,,,,,150,180,310,270,220,,
+http://statistics.data.gov.uk/id/local-authority-district/20UJ,Wear Valley,,,,,250,350,520,710,220,,
+http://statistics.data.gov.uk/id/government-office-region/F,West Midlands,,,,,15880,18670,16300,15790,12780,10440,10010
+http://statistics.data.gov.uk/id/local-authority-district/46UF,West Wiltshire,,,,,700,600,510,770,,,
+http://statistics.data.gov.uk/id/government-office-region/D,Yorkshire and The Humber,,,,,12470,16130,19160,20270,14780,11030,11040
