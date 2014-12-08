@@ -1,6 +1,6 @@
 # grafter-demo
 
-Demo of Grafter with net-additional-dwellings.csv
+Grafter example for the OpenCube project: net-additional-dwellings.csv
 
 ## Installation
 
