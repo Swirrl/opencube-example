@@ -1,5 +1,5 @@
 (ns grafter-demo.core
-  (:require [grafter.tabular :refer [graph-fn defpipeline derive-column mapc drop-rows add-columns]]
+  (:require [grafter.tabular :refer [graph-fn defpipeline derive-column mapc drop-rows add-columns melt]]
             [grafter.tabular.common :refer [open-all-datasets make-dataset]]
             [grafter.rdf.protocols :as pr]
             [grafter.rdf.io :as io]
@@ -58,21 +58,11 @@
   "pipeline for 'net-additional-dwellings.csv'"
   [dataset]
   (-> dataset
-      (make-dataset [:area :name :period-00-01 :period-01-02 :period-02-03 :period-03-04 :period-04-05 :period-05-06 :period-06-07 :period-07-08 :period-08-09 :period-09-10 :period-10-11])
-      (add-columns {:y-00-01 "2000-2001" :y-01-02 "2001-2002" :y-02-03 "2002-2003" :y-03-04 "2003-2004" :y-04-05 "2004-2005" :y-05-06 "2005-2006" :y-06-07 "2006-2007" :y-07-08 "2007-2008" :y-08-09 "2008-2009" :y-09-10 "2009-2010" :y-10-11 "2010-2011"})
+      (make-dataset [:area :name "2000-2001" "2001-2002" "2002-2003" "2003-2004" "2004-2005" "2005-2006" "2006-2007" "2007-2008" "2008-2009" "2009-2010" "2010-2011"])
       (drop-rows 1)
+      (melt :area :name)
       (derive-column :area-code [:area] get-area-code)
-      (derive-column :net-additional-dwellings-00-01-uri [:y-00-01 :area-code :period-00-01] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-01-02-uri [:y-01-02 :area-code :period-01-02] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-02-03-uri [:y-02-03 :area-code :period-02-03] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-03-04-uri [:y-03-04 :area-code :period-03-04] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-04-05-uri [:y-04-05 :area-code :period-04-05] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-05-06-uri [:y-05-06 :area-code :period-05-06] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-06-07-uri [:y-06-07 :area-code :period-06-07] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-07-08-uri [:y-07-08 :area-code :period-07-08] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-08-09-uri [:y-08-09 :area-code :period-08-09] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-09-10-uri [:y-09-10 :area-code :period-09-10] net-additional-dwellings-id)
-      (derive-column :net-additional-dwellings-10-11-uri [:y-10-11 :area-code :period-10-11] net-additional-dwellings-id)))
+      (derive-column :net-additional-dwellings-uri [:variable :area-code :value] net-additional-dwellings-id)))
 
 ;;
 ;;; Create the template 
@@ -80,96 +70,16 @@
 
 (def net-additional-dwellings-template
   "RDF template for 'net-additional-dwellings.csv'"
-  (graph-fn [{:keys [area name period-00-01 period-01-02 period-02-03 period-03-04 period-04-05 period-05-06 period-06-07 period-07-08 period-08-09 period-09-10 period-10-11 net-additional-dwellings-00-01-uri net-additional-dwellings-01-02-uri net-additional-dwellings-02-03-uri net-additional-dwellings-03-04-uri net-additional-dwellings-04-05-uri net-additional-dwellings-05-06-uri net-additional-dwellings-06-07-uri net-additional-dwellings-07-08-uri net-additional-dwellings-08-09-uri net-additional-dwellings-09-10-uri net-additional-dwellings-10-11-uri]}]
+  (graph-fn [{:keys [area name area-code net-additional-dwellings-uri variable value]}]
 
             (graph "http://opendatacommunities.org/graph/net-additional-dwellings"
-                   [net-additional-dwellings-00-01-uri
+                   [net-additional-dwellings-uri
                     [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2000-2001, " name))]
-                    [net-additional-dwellings-def (parseValue period-00-01)]
+                    [rdfs:label  (rdfstr (str "Net additional dwellings, " variable ", " name))]
+                    [net-additional-dwellings-def (parseValue value)]
                     [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
                     [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2000-2001")]]
-
-                   [net-additional-dwellings-01-02-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2001-2002, " name))]
-                    [net-additional-dwellings-def (parseValue period-01-02)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2001-2002")]]
-
-                   [net-additional-dwellings-02-03-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2002-2003, " name))]
-                    [net-additional-dwellings-def (parseValue period-02-03)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2002-2003")]]
-
-                   [net-additional-dwellings-03-04-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2003-2004, " name))]
-                    [net-additional-dwellings-def (parseValue period-03-04)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2003-2004")]]
-
-                   [net-additional-dwellings-04-05-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2004-2005, " name))]
-                    [net-additional-dwellings-def (parseValue period-04-05)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2004-2005")]]
-
-                   [net-additional-dwellings-05-06-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2005-2006, " name))]
-                    [net-additional-dwellings-def (parseValue period-05-06)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2005-2006")]]
-
-                   [net-additional-dwellings-06-07-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2006-2007, " name))]
-                    [net-additional-dwellings-def (parseValue period-06-07)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2006-2007")]]
-
-                   [net-additional-dwellings-07-08-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2007-2008, " name))]
-                    [net-additional-dwellings-def (parseValue period-07-08)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2007-2008")]]
-
-                   [net-additional-dwellings-08-09-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2008-2009, " name))]
-                    [net-additional-dwellings-def (parseValue period-08-09)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2008-2009")]]
-
-                   [net-additional-dwellings-09-10-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2009-2010, " name))]
-                    [net-additional-dwellings-def (parseValue period-09-10)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2009-2010")]]
-
-                   [net-additional-dwellings-10-11-uri
-                    [rdf:a qb:Observation]
-                    [rdfs:label  (rdfstr (str "Net additional dwellings, 2010-2011, " name))]
-                    [net-additional-dwellings-def (parseValue period-10-11)]
-                    [qb:dataSet "http://opendatacommunities.org/data/net-additional-dwellings"]
-                    [sdmx-dimension:refArea (rdfstr area)]
-                    [sdmx-dimension:refPeriod (gov-year "2010-2011")]])))
+                    [sdmx-dimension:refPeriod (gov-year variable)]])))
 
 ;;
 ;;; Filter the triples with missing data
