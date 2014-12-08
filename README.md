@@ -2,6 +2,12 @@
 
 Demo of Grafter with net-additional-dwellings.csv
 
+## Installation
+
+You'll need 
+* [Leiningen 1.7.0 or above installed](https://github.com/technomancy/leiningen)
+* [Grafter 0.3.0-SNAPSHOT](https://github.com/Swirrl/grafter)
+
 ## Usage
 
     lein run ./net-additional-dwellings.csv ./net-additional-dwellings.nt
